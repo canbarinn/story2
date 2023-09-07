@@ -1,1 +1,1 @@
-# story2
+# yenilenmis readme
